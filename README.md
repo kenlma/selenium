@@ -1,5 +1,6 @@
 # selenium+jenkins+headless(phantomjs)
 1 install selenium on jenkins server and coding server
+
 pip install selenium
 
 2 install phantomjs
